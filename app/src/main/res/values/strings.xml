@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AllPayhere</string>
+    <string name="services">Services</string>
+    <string name="electricity">Electricity</string>
+    <string name="plumbing">Plumbing</string>
+    <string name="health">Health</string>
+    <string name="food">Food</string>
+    <string name="delivery">Delivery</string>
+    <string name="carpentary">Carpentary</string>
+    <string name="open_drawer">open drawer</string>
+    <string name="close_drawer">close drawer</string>
+    <string name="rohit_sharma">Rohit Sharma</string>
+    <string name="my_account">My account</string>
+    <string name="my_orders">My orders</string>
+    <string name="help_and_feedback">Help and feedback</string>
+    <string name="settings">Settings</string>
+    <string name="sign_out">Log out</string>
+</resources>

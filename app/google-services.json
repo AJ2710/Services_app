@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "660573503003",
+    "firebase_url": "https://allpayhere-36623.firebaseio.com",
+    "project_id": "allpayhere-36623",
+    "storage_bucket": "allpayhere-36623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660573503003:android:fb40ef01764a4938",
+        "android_client_info": {
+          "package_name": "com.example.ajitg.allpayhere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660573503003-qdfbaqvfbis0db46us46jc7uufh640nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALOY9XUlJ2JUQbSswG8QhkII6zjM_YAUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/my_account_icon"
+        android:title="@string/my_account"
+        android:id="@+id/myAccountDrawer"/>
+
+    <item
+        android:icon="@drawable/orders_icon"
+        android:title="@string/my_orders"
+        android:id="@+id/myOrdersDrawer"/>
+
+    <item
+        android:icon="@drawable/help_and_feedback_icon"
+        android:title="@string/help_and_feedback"
+        android:id="@+id/helpFeedbackDrawer"/>
+
+    <item
+        android:icon="@drawable/setting_icon"
+        android:title="@string/settings"
+        android:id="@+id/settingsDrawer"/>
+    <item
+        android:icon="@drawable/logout_icon"
+        android:title="@string/sign_out"
+        android:id="@+id/signOutDrawer"/>
+
+</menu>
